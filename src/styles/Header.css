@@ -1,0 +1,17 @@
+.Header {
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    /* background-image: url(C:\Users\Chetan1.Jagtap\Documents\React-Iphone\iphone-website-clone\src\download.jfif); */
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.Space{
+    width: 2px;
+}
+
+.ABC{
+    color:white;
+    text-align: center;
+}

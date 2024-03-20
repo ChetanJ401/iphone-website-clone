@@ -1,0 +1,21 @@
+.Product {
+    text-align: center;
+    color: white;
+    background-image: url(C:\Users\Chetan1.Jagtap\Documents\React-Iphone\iphone-website-clone\src\titanium.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 407px; /* Adjust the height as needed */
+}
+
+.product-heading {
+    color: white;
+   
+}
+
+.product-image {
+    color: white;
+}
+
+.product-name {
+    color: white;
+}
