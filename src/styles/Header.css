@@ -1,17 +1,40 @@
-.Header {
+.Welcome {
     color: white;
     padding: 10px 0;
     text-align: center;
-    /* background-image: url(C:\Users\Chetan1.Jagtap\Documents\React-Iphone\iphone-website-clone\src\download.jfif); */
+    background-image: url(C:\Users\Chetan1.Jagtap\Documents\React-Iphone\iphone-website-clone\src\download.jfif); /* Adjust the path to your background image */
     background-repeat: no-repeat;
-    background-size: cover
-}
-
-.Space{
-    width: 2px;
-}
-
-.ABC{
-    color:white;
+    background-size: cover;
+    margin-bottom: 10px; /* Add margin to create space */
+  }
+  
+  .logo-container {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .logo {
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .Header {
+    color: white;
+    padding: 10px 0;
     text-align: center;
+    background-color: #333; /* Change the background color if needed */
+  }
+  
+  .ABC {
+    color: white;
+    text-align: center;
+    background-color: grey;
+    height: 76px;
+    display: flex;
+    align-items: center; /* Vertical center alignment */
+    justify-content: center;
+  }
+
+  a {
+    color: white;
 }
